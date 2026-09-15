@@ -97,7 +97,7 @@ mkdir ~/wifi
 sudo airmon-ng start wlan0
 ```
 ```
-sudo airodump-ng wlan0mon -w ~/wifi/scan --manufacturer --wps --bandabg
+sudo airodump-ng wlan0mon -w ~/wifi/scan --manufacturer --wps --band abg
 ```
 
 ## Autenticação aberta - WPA
