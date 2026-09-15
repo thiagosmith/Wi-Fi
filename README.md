@@ -72,7 +72,7 @@ iw reg get
 ```
 ### Alterando o domínio regulatório
 ```
-iw reg set US
+sudo iw reg set US
 ```
 
 ## Reconhecimento
